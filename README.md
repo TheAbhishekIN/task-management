@@ -2,7 +2,7 @@
 ## CT Task Management
 
 ### Steps to run the project
-1. unzip the file 
+1. clone repo `git clone https://github.com/TheAbhishekIN/task-management.git` 
 2. run `composer install` 
 3. create database and update the `.env` file
 4.  run `npm install && npm run dev`
